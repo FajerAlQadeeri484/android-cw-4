@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CW4</string>
+    <string name="calculate">Calculate</string>
+    <string name="number1">number1</string>
+    <string name="number2">number2</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+</resources>
